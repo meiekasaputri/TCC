@@ -8,14 +8,12 @@
 **Mengelola Repo Sendiri di Account Sendiri**
 
 2. Clone repo yaitu proses untuk menduplikasikan remote repo di GitHub ke komputer lokal, dengan menggunakan perintah seperti berikut :
-
 ![](tcc/2.png)
 
 **Mengelola Repo - Mengubah Isi - Push Tanpa Branching dan Merging**
 
 3. Karena sudah clone repo yang dikerjakan waktu prakitikum kemudian pindah ke folder `tcc/minggu-01/` dengan menggunakan perintah cd. Untuk  melihat isi dari file README.md yaitu **# My Awesome Project** menggunakan perintah `cat README.md`sedangkan untuk mengisi atau membuat file dengan menggunakan perintah `vim README.md` klik tombol esc kemudian pilih :wq untuk menyimpan isi file.
 ![](tcc/3.png)
-
 ![](tcc/3a.png)
 
 4. Melihat status dari repository lokal menggunakan perintah seperti berikut :
@@ -25,13 +23,10 @@
 ![](tcc/5.png)
 
 6. Menyimpan perubahan yang dilakukan dan memberikan keterangan tentang perubahan yang dilakukan dengan menggunakan perintah berikut :
-
 ![](tcc/6.png)
-
 ![](tcc/6a.png)
 
 7. Push file ke repository github pada branch master.
-
 ![](tcc/7.png)
 
 8. Hasil dari push file.
@@ -50,17 +45,13 @@
 ![](tcc/11.png)
 
 12. `Confirm Merge` branch yang dikirimkan tadi sudah dimasukkan ke branch `master`. Setelah itu, merge di komputer lokal.
-
 ![](tcc/12.png)
 
 13. Menghapus branch edit-readme-1a menggunakan perintah seprti berikut :
-
 ![](tcc/13.png)
 
 14. Melihat semua branch yang ada dengan perintah seperti berikut :
-
 ![](tcc/14.png)
 
 15. Sinkronisasi repo dari github ke komputer lokal menggunakan perintah `git pull`.
-
 ![](tcc/15.png)
