@@ -2,8 +2,7 @@
 
 **Konfigurasi Git**
 
-1. Konfigurasi username dan email untuk masuk ke Git kemudian melihat konfigurasi username dan email yang sudah dikonfigurasi sebelumnya dengan perintah seperti berikut :.
-
+1. Konfigurasi username dan email untuk masuk ke Git kemudian melihat konfigurasi username dan email yang sudah dikonfigurasi sebelumnya dengan perintah seperti berikut :
 ![](tcc/1.png)
 
 **Mengelola Repo Sendiri di Account Sendiri**
