@@ -49,6 +49,7 @@
 ![](tcc/11.png)
 
 12. `Confirm Merge` branch yang dikirimkan tadi sudah dimasukkan ke branch `master`. Setelah itu, merge di komputer lokal.
+
 ![](tcc/12.png)
 
 13. Menghapus branch edit-readme-1a menggunakan perintah seprti berikut :
