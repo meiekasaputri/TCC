@@ -2,7 +2,8 @@
 
 **Membatalkan Perubahan**
 
-1. Membuat branch baru lalu pindah ke branch baru dengan nama edit-readme-2 tersebut dengan dengan perintah seperti berikut :.
+1. Membuat branch baru lalu pindah ke branch baru dengan nama edit-readme-2 tersebut dengan dengan perintah seperti berikut :
+
 ![](tcc-2/2-1.png)
 
 2. Karena sudah clone repo yang dikerjakan waktu prakitikum kemarin maka pindah ke folder `tcc/minggu-01/`dengan menggunakan perintah cd. Untuk mengisi, membuat atau mengedit file dengan menggunakan perintah `vim README.md` di pertemuan kali ini file README.md yang sebelumnya di edit dengan menambahkan kalimat "Jadi agak kacau nih" klik tombol esc kemudian pilih :wq untuk menyimpan isi file. Sedangkan untuk melihat isi dari file README.md yaitu **# My Awesome Project** menggunakan perintah `cat README.md`.
