@@ -67,7 +67,7 @@
 21. Melihat status dari repository lokal menggunakan perintah seperti berikut :
 ![](tcc-2/2-21.png)
 
-22. Menambahkan README.md ke git lalu melihat status dari repository lokal dan terlihat bahwa README.md telah dilakukan modifikasi
+22. Menambahkan README.md ke git lalu melihat status dari repository lokal dan terlihat bahwa README.md telah dilakukan modifikasi.
 ![](tcc-2/2-22.png)
 
 23. Digunakan untuk melanjutkan kembali ke perubahan pada saat yang sudah lama dengan perintah berikut :
