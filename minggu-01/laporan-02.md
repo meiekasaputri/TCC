@@ -2,7 +2,7 @@
 
 **Membatalkan Perubahan**
 
-1. Membuat branch baru lalu pindah ke branch baru dengan nama edit-readme-2 tersebut dengan dengan perintah seperti berikut :
+1. Membuat branch baru lalu pindah ke branch baru dengan nama edit-readme-2 tersebut dengan dengan perintah seperti berikut :.
 ![](tcc-2/2-1.png)
 
 2. Karena sudah clone repo yang dikerjakan waktu prakitikum kemarin maka pindah ke folder `tcc/minggu-01/`dengan menggunakan perintah cd. Untuk mengisi, membuat atau mengedit file dengan menggunakan perintah `vim README.md` di pertemuan kali ini file README.md yang sebelumnya di edit dengan menambahkan kalimat "Jadi agak kacau nih" klik tombol esc kemudian pilih :wq untuk menyimpan isi file. Sedangkan untuk melihat isi dari file README.md yaitu **# My Awesome Project** menggunakan perintah `cat README.md`.
@@ -19,7 +19,7 @@
 5. Melihat log yang telah dilakukan secara oneLine dengan menggunakan perintah berikut :
 ![](tcc-2/2-5.png)
 
-6. Mengedit dan melihat isi file README.md. Lalu menambahkan file yang ada di lokal ke git. Menyimpan perubahan yang dilakukan dan memberikan keterangan tentang perubahan yang dilakukan `Add: contents`. Push file ke repository github pada branch master. Untuk mengeksekusi perintah-perintah tersebut dengan menggunakan perintah seperti berikut :
+6. Mengedit dan melihat isi file README.md. Lalu menambahkan file yang ada di lokal ke git. Menyimpan perubahan yang dilakukan dan memberikan keterangan tentang perubahan yang dilakukan `Add: contents`. Push file ke repository github pada branch master. Untuk mengeksekusi perintah-perintah tersebut dengan menggunakan perintah seperti berikut :.
 ![](tcc-2/2-6.png)
 
 7. Hampir sama dengan nomor 7 hanya isi file README.md yang berbeda setelah di edit.
@@ -29,6 +29,7 @@
 ![](tcc-2/2-8.png)
 
 9. Push file ke repository github pada branch master.
+
 ![](tcc-2/2-9.png)
 
 10. Melihat isi file README.md dengan menggunakan perintah seperti berikut :.
@@ -50,6 +51,7 @@
 ![](tcc-2/2-15.png)
 
 16. Perintah ini digunakan untuk melakukan format secara paksa kemudian melihat hasilnya dengan membuka isi dari file README.md.
+
 ![](tcc-2/2-16.png)
 
 17. Mengedit dan melihat isi file README.md dengan menggunakan perintah seprti berikut :
@@ -68,10 +70,12 @@
 ![](tcc-2/2-21.png)
 
 22. Menambahkan README.md ke git lalu melihat status dari repository lokal dan terlihat bahwa README.md telah dilakukan modifikasi.
+
 ![](tcc-2/2-22.png)
 
 23. Digunakan untuk melanjutkan kembali ke perubahan pada saat yang sudah lama dengan perintah berikut :
 ![](tcc-2/2-23.png)
 
 24. Push file ke repository github pada branch master.
+
 ![](tcc-2/2-24.png)
