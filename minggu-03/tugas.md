@@ -16,4 +16,4 @@ Contoh aplikasi dari SaaS :
 
 # Arsitektur SaaS (Software as a Service)
 
-![](minggu-03/Arsitektur02.png)
+![](./Arsitektur02.png)
