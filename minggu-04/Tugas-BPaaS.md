@@ -11,6 +11,7 @@ Dalam beberapa kasus, seluruh proses bisnis outsourcing perusahaan mungkin mener
 # Contoh Penyedia Layanan BPaaS
 
 1. http://www.wipro.com/
+
 Menyediakan Layanan BPaaS :
 - Business Process Outsourcing (http://www.wipro.com/services/business-process-outsourcing-BPO-services/)
 - Infrastructure Management Services (http://www.wipro.com/services/infrastructure-management-services/)
@@ -18,6 +19,7 @@ Menyediakan Layanan BPaaS :
 
 
 2. http://www.cognizant.com/
+
 Menyediakan Layanan BPaaS :
 - Research and Analytics
   Menyediakan layanan yg terdiri dari Financial Research, Business/Market Research, etc.
@@ -28,6 +30,7 @@ Menyediakan Layanan BPaaS :
 
 
 3. http://gartnerevent.com/
+
 Menyediakan Layanan BPaaS :
 -  Gartner Consulting (http://www.gartner.com/technology/consulting/)
 -  Research Products and Services (http://www.gartner.com/technology/research.jsp
