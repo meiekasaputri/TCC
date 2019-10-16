@@ -1,6 +1,6 @@
 # Laporan Praktikum Pertemuan Minggu ke-05
 
-**Running A Container**
+**Deploying Your First Docker Container**
 
 1. docker search redis digunakan untuk mencari image redis yang ada di docker hub.
 
@@ -47,3 +47,65 @@
 11. docker run -it ubuntu bash digunakan untuk masuk ke dalam container ubuntu
 
 ![](tcc-4/6-13.png)
+
+**Deploy Static HTML Website as Container**
+1. Membuat Dockerfile, untuk membangun image menyalin konten di bawah ini ke editor.
+
+![](tcc-4/6-21.png)
+
+2. docker build -t webserver-image:v1 digunakan untuk membuat image statis HTML.
+
+![](tcc-4/6-22.png)
+
+3. docker image digunakan untuk melihat list semua image yang ada di host yang digunakan.
+
+![](tcc-4/6-23.png)
+
+4. docker run -d -p 80:80 webserver-image:v1 digunakan untuk membuat iamge dengan memberikan nama dan tag. Menggunakan port 80 karena web server dan menggunakan parameter -p untuk port.
+
+![](tcc-4/6-24.png)
+
+5. Untuk dapat mengakses hasil port 80 melalui curl docker
+
+![](tcc-4/6-25.png)
+
+**Building Container Images**
+
+1. Membuat image dasar (base image) dengan menyalin konten di bawah ini ke editor.
+
+![](tcc-4/6-26.png)
+
+2. Running commands untuk mengcopy index.html ke directory /usr/share/nginx/html/index.html dengan menyalin konten di bawah ini ke editor.
+
+![](tcc-4/6-27.png)
+
+3. Exposing ports dengan menyalin konten di bawah ini ke editor.
+
+![](tcc-4/6-28.png)
+
+4. Default commands dengan menyalin konten di bawah ini ke editor.
+
+![](tcc-4/6-29.png)
+
+5. docker build digunakan untuk membangun container
+
+![](tcc-4/6-31.png)
+
+6. docker images digunakan untuk melihat list semua image yang ada di host yang digunakan.
+
+![](tcc-4/6-32.png)
+
+7. docker build -t my-nginx-image:latest digunakan untuk membuat sebuah image dengan nama my-nginx-image:latest dimana image ini dibuild berdasarkan konfigurasi dari file dockerfile.
+
+![](tcc-4/6-33.png)
+
+8. docker run -d -p 80:80 my-nginx-image:latest digunakan untuk menjalankan container my-nginx-image:latest pada background dengan menggunakan port 80.
+
+![](tcc-4/6-36.png)
+
+9. Setelah meluncurkan (launch) container, perintah berikut akan mengembalikan file indeks melalui NGINX dan image yang telah dibuat.
+
+![](tcc-4/6-34.png)
+
+10. docker ps diguanakan untuk melihat containers yang sudah berjalan.
+![](tcc-4/6-35.png)
