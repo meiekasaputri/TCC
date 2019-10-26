@@ -18,6 +18,11 @@ atau sebagai layanan pribadi (perangkat lunak atau alat) di dalam firewall, atau
 SaaS (software as a service atau perangkat lunak berbentuk layanan) adalah suatu model penyampaian aplikasi perangkat lunak oleh suatu vendor perangkat lunak yang mengembangkan aplikasi web yang diinangi dan dioperasikan (baik secara mandiri maupun melalui pihak ketiga) untuk digunakan oleh pelanggannya melalui Internet.
 Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melainkan hanya untuk menggunakan. Pelanggan menggunakan perangkat lunak tersebut melalui antarmuka pemrograman aplikasi yang dapat diakses melalui web dan seringkali ditulis menggunakan layanan web atau REST.
 
+**Keterkaitan antara Docker, PaaS, dan SaaS**
+
+Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian dari SaaS.
+
+# Docker Hub
 **Upload Images to Docker Hub**
 
 1. Masuk ke directory uts yang ada di dalam directory tcc. Kemudian membuat file Dockerfile yang menggunakan base images nginx:alpine di dalam directory uts tersebut.
