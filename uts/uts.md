@@ -20,7 +20,7 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
 
 **Keterkaitan antara Docker, PaaS, dan SaaS**
 
-![](tcc-uts/diagram.png)
+![](tcc-uts/Diagram.jpeg)
 Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian dari SaaS.
 
 # Docker Hub
