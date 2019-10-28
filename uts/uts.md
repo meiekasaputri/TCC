@@ -20,6 +20,7 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
 
 **Keterkaitan antara Docker, PaaS, dan SaaS**
 
+![](tcc-uts/diagram.png)
 Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian dari SaaS.
 
 # Docker Hub
@@ -45,5 +46,7 @@ Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian da
 6. Upload docker images yang sudah diganti tagging nya menggunakan perintah docker push 050612/nginx:uts.
    ![](tcc-uts/6.png)
 
-7. Jika sudah berhasil dipush maka akan muncul images yang telah dipush pada docker hub kita.
+7. Jika sudah berhasil dipush maka akan muncul images yang telah dipush pada docker hub.
+   Dimana dockerfile images nginx yang sudah dipush ke dockerhub dapat diakses di URL berikut : https://cloud.docker.com/u/050612/repository/docker/050612/nginx
+   Docker images adalah sebuah template yang bersifat read only. Template ini sebenarnya adalah sebuah OS yang telah diinstall berbagai aplikasi. Docker images berfungsi untuk membuat docker container, menggunakan 1 docker images kita dapat membuat banyak docker container.
    ![](tcc-uts/7.png)
