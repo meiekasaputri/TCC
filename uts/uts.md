@@ -20,9 +20,12 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
 
 **Keterkaitan antara Docker, PaaS, dan SaaS**
 
-![](tcc-uts/Diagram.jpeg)
+![](tcc-uts/diagram.png)
+
+Suatu SaaS dapat dibangun dengan satu atau lebih PaaS dimana Docker adalah salah satu teknologi PaaS yang dapat digunakan.
 Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian dari SaaS.
 Docker adalah bagian dari PAAS, SAAS memerlukan PAAS untuk menjalankan Aplikasinya.
+Contoh : Ada sebuah SaaS e-commerce bernama eshop, eshop tersebut menggunakan dua vendor PaaS. Pada vendor pertama eshop berfokus pada data & processing disana dia menentukan sendiri image yang dibutuhkan, misal ada container untuk Redis, container untuk ElasticSearch, container untuk Backgrond Process, dsb. Sedangkan, pada vendor kedua eshop berfokus pada content delivery disana telah tersedia beberapa pilihan untuk mendeploy seperti PHP, NodeJs, Ruby, dsb dimana masing-masing pilihan tersebut pada dasarnya juga menggunakan docker.
 
 # Docker Hub
 **Upload Images to Docker Hub**
