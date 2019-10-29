@@ -54,6 +54,8 @@ Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian da
    ![](tcc-uts/7.png)
 
 8. Menajalankan dockern dengan perintah **docker run -d -p 8088:80 --name=mei-nginx 050612/nginx:uts** dimana --name=mei-nginx adalah nama docker dan -p 8088:80 adalah menjalankan docker yang ada di port 8088 (browser) kemudian docker akan mengarahkan ke service port 80 di container dengan nama 050612/nginx:uts
+
    ![](tcc-uts/8.png)
+
    Saat akses di browser akan muncul seperti berikut :
    ![](tcc-uts/9.png)
