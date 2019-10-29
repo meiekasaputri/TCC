@@ -22,6 +22,7 @@ Pelanggan tidak mengeluarkan uang untuk memiliki perangkat lunak tersebut melain
 
 ![](tcc-uts/Diagram.jpeg)
 Docker dapat mendukung konsep PaaS, yg mana PaaS sendiri dapat menjadi bagian dari SaaS.
+Docker adalah bagian dari PAAS, SAAS memerlukan PAAS untuk menjalankan Aplikasinya.
 
 # Docker Hub
 **Upload Images to Docker Hub**
