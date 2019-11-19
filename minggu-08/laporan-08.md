@@ -3,6 +3,7 @@
 **Dockerized python+flask**
 
 1. Membuat file app.py.
+
    ![](tcc6/1.png)
 
 2. Membuat file requirements.txt.
