@@ -11,10 +11,8 @@
 3. Membuat Dockerfile.
    ![](tcc6/3.png)
 
-4. Build images docker dengan perintah berikut :
+4. Build images docker, dockerhub saya menggunakan ID (050612) dengan perintah berikut :
    ![](tcc6/4.png)
-   Namun karena dockerhub saya menggunakan ID (050612) jadi saya ubah namanya menjadi seperti berikut :
-   ![](tcc6/4a.png)
 
 5. Cek images menggunakan perintah docker images.
    ![](tcc6/5.png)
@@ -36,5 +34,3 @@
 
 11. Browse app menggunakan URL http://localhost:5000 .
     ![](tcc6/11.png)
-
-12. 
