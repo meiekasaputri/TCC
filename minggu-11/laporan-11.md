@@ -1,12 +1,14 @@
 # Laporan Praktikum Pertemuan Minggu ke-11
 
 **TUGAS KELOMPOK**
+
 Anggota :
-1. Mei Eka Saputri (175410006)
-2. Linda Agustina (175410007)
-3. Nur Alifah (175410008)
-4. Shafira Khairunnisa Putri (175410009)
-5. Khanifa Eka Nuryati (175410074)
+- Mei Eka Saputri (175410006)
+- Linda Agustina (175410007)
+- Nur Alifah (175410008)
+- Shafira Khairunnisa Putri (175410009)
+- Khanifa Eka Nuryati (175410074)
+
 
 1.	Konsep IaaS
     Penyedia layanan IaaS memiliki seperangkat infrastruktur yang di colocation atau bekerjasama dengan penyedia fasilitas data center, dimana mereka berlaku sebagai partner vendor dengan keahlian mengelola virtualisasi. Tujuannya adalah untuk memberikan layanan sumber daya atau infrastruktur IT on-demand dengan kapasitas yang tersedia pada seluruh perangkat di infrastruktur IaaS yang berada pada data center tersebut dengan standard yang tinggi.
@@ -83,4 +85,4 @@ Anggota :
 
     Konsep OpenNebula ini menawarkan kesederhanaan dalam memberikan solusi yang lengkap untuk membuat dan melakukan manajemen virtualisasi data center dalam tingkat enterprise. Dengan  menggunakan OpenNebula bisa  diimplementasikan  server private  cloud  computing dengan  virtualisasi sehingga membuat mesin virtualisasi server pada worker -node dan dengan  menggunakan OpenNebula proses  pengelolaan image dan pendeployan mesin virtual  dapat diatur dengan mudah dari front- node baik dengan command line interface maupun dari sunstone web interface.
 
-    Pada hal ini OpenNebula berjalan di atas sistem operasi ubuntu bionic yang di virtual kan melalui software Vmware, yang mempunyai 2 sistem operasi yaitu Frontend Server dan Node Server. Dimana frontend ini bertitik pusat pada kinerja interface dari opennebula dan node bekerja sebagai sistem atau host yang di gunakan dalam menjalankan hak akses penuh untuk memanfaatkan opennebula salah satunya dalam menjalankan suatu (virtual machine) vm pada opennebula ini . pada penginstalan vm yang di buat ini mempunyai 3 unsur sebelum vm terbuat yaitu virtual network , host dan images yang dimana wadah untuk menyatukan 3 unsur tersebut bernama templates. 
+    Pada hal ini OpenNebula berjalan di atas sistem operasi ubuntu bionic yang di virtual kan melalui software Vmware, yang mempunyai 2 sistem operasi yaitu Frontend Server dan Node Server. Dimana frontend ini bertitik pusat pada kinerja interface dari opennebula dan node bekerja sebagai sistem atau host yang di gunakan dalam menjalankan hak akses penuh untuk memanfaatkan opennebula salah satunya dalam menjalankan suatu (virtual machine) vm pada opennebula ini . pada penginstalan vm yang di buat ini mempunyai 3 unsur sebelum vm terbuat yaitu virtual network , host dan images yang dimana wadah untuk menyatukan 3 unsur tersebut bernama templates.
