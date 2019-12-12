@@ -16,9 +16,12 @@ Anggota :
     Pelanggan dapat memilih sendiri infrastruktur yang akan digunakan melalui website penyedia IaaS yang juga berfungsi sebagai konsol manajemen untuk seluruh elemen IT yang disediakan oleh jasa Cloud IaaS tersebut, seperti penggunaan server dengan modifikasi ram, processor dan berapa server yang akan dipakai, ruangan penyimpanan, aplikasi dan sistem operasi, serta data transfer. Selain itu para provider IaaS juga menyediakan jasa pemeliharaan aplikasi, backup, dan lainnya.
 
     Pelanggan IaaS membayar sesuai pemakaian “Pay as You Go”, biasanya berdasarkan jam, minggu, atau bulan. Beberapa provider IaaS juga mengenakan biaya berdasar jumlah mesin virtual yang digunakan. Dengan konsep biaya seperti ini maka perusahaan pengguna jasa IaaS tidak perlu melakukan investasi pembelian perangkat server, instalasi, konfigurasi dan manajemen operasional infrastruktur tersebut yang sangat menguras modal terutama untuk sebuah perusahaan startup.
+
 2.	Berbagai Software Iaas
     Infrastructure as a Service adalah penyediaan infrastruktur yang disediakan melalui internet dan dibayarkan berdasarkan pemakaian. Hal ini terjadi apabila developer membutuhkan sebuah infrastruktur dimana dia dapat melakukan setting untuk jalannya sebuah aplikasi. IaaS memberikan kendali penuh bagi pengguna layanan untuk menyewa infrastruktur IT (storage, RAM, prosesor dll) secara virtual tanpa sistem operasi, yang tentunya pemilihan sistem operasi tersebut dipilih berdasarkan keinginan pengguna. Apabila SaaS dan PaaS kurang terasa manfaatnya bagi perusahaan, IaaS ini sangat menguntungkan bagi perusahaan kecil yang membutuhkan sebuah infrastruktur IT tanpa harus membeli perangkat yang dibutuhkan tersebut.
+
     Contoh:
+
     a. Cisco
        Cisco menyediakan semua basic fitur yang dibutuhkan dalam solusi bisnis telepon. Pengguna dapat secar mudah mengatur musik dan pesan untuk pelanggan selagi dalam keadaan tunggu. Pengguna juga memiliki pilihan untuk membuat voicmail recording dan frekuensi dapat diubah.
        Pro:
@@ -27,7 +30,6 @@ Anggota :
        Layanan ini hanya menyediakan garansi satu tahun pada produk-produknya.
        http://www.toptenreviews.com/business/phones/best-small-business-phone-systems/cisco-review/
  
-
    b. Biznet GIO
       Biznet GIO Cloud adalah layanan yang dirancang khusus bagi korporasi, yang menawarkan tingkat keandalan, keamanan dan pemenuhan compliance paling tinggi. Layanan ini memberikan penggunanya kemampuan manajemen penuh terhadapa server-server yang ada. Layaknya pusat data virtual, Biznet GIO Enterprise Cloud dilengkapi dengan server-server hypervisor fisik dan server untuk tuntunan manajemen virtualisasi aplikasi- aplikasi milik pengguna.
 
