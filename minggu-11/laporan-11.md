@@ -28,6 +28,7 @@ Anggota :
        Sistem telepon bisnis kecil ini memberikan berbagai alat komputer terpadu, termasuk instant messaging kemampuan dan video. Hal ini juga menyediakan banyak fitur paging dasar dan lanjutan.
        Cons:
        Layanan ini hanya menyediakan garansi satu tahun pada produk-produknya.
+
        http://www.toptenreviews.com/business/phones/best-small-business-phone-systems/cisco-review/
  
    b. Biznet GIO
