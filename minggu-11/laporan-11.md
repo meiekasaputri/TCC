@@ -23,18 +23,22 @@ Anggota :
     Contoh:
 
     a. Cisco
+
        Cisco menyediakan semua basic fitur yang dibutuhkan dalam solusi bisnis telepon. Pengguna dapat secar mudah mengatur musik dan pesan untuk pelanggan selagi dalam keadaan tunggu. Pengguna juga memiliki pilihan untuk membuat voicmail recording dan frekuensi dapat diubah.
        Pro:
        Sistem telepon bisnis kecil ini memberikan berbagai alat komputer terpadu, termasuk instant messaging kemampuan dan video. Hal ini juga menyediakan banyak fitur paging dasar dan lanjutan.
        Cons:
        Layanan ini hanya menyediakan garansi satu tahun pada produk-produknya.
 
-       http://www.toptenreviews.com/business/phones/best-small-business-phone-systems/cisco-review/
+       http://www.toptenreviews.com/business/phones/best-small-business-phone-systems/cisco-review/.
+
  
    b. Biznet GIO
+
       Biznet GIO Cloud adalah layanan yang dirancang khusus bagi korporasi, yang menawarkan tingkat keandalan, keamanan dan pemenuhan compliance paling tinggi. Layanan ini memberikan penggunanya kemampuan manajemen penuh terhadapa server-server yang ada. Layaknya pusat data virtual, Biznet GIO Enterprise Cloud dilengkapi dengan server-server hypervisor fisik dan server untuk tuntunan manajemen virtualisasi aplikasi- aplikasi milik pengguna.
 
    c. Amazon EC2
+   
       Amazon Elastic Compute Cloud (EC2) membentuk bagian tengah dari Amazon.com 's cloud computing platform Amazon Web Services (AWS), dengan memungkinkan pengguna untuk menyewa komputer virtual yang yang menjalankan sendiri aplikasi komputer . EC2 mendorong scalable penyebaran aplikasi dengan menyediakan layanan web di mana pengguna dapat boot Amazon Mesin Gambar untuk mengkonfigurasi mesin virtual , yang Amazon menyebut sebuah "contoh" , yang berisi perangkat lunak yang diinginkan. Seorang pengguna dapat membuat, peluncuran, dan mengakhiri Server -instances yang diperlukan, membayar per jam untuk server aktif - maka istilah "elastis". EC2 menyediakan pengguna dengan kontrol atas lokasi geografis dari contoh yang memungkinkan untuk latency optimasi dan tingkat tinggi redundansi.
 
 3.	Getting started software IaaS yang dipilih (Opennebula)
