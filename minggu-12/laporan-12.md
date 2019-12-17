@@ -14,6 +14,7 @@
 
 3. Perintah berikut digunakan untuk menjalankan file docker-compose.yml,
    -d digunakan agar proses berjalan pada background.
+   
    ![](tcc-12/3.png)
 
 4. Perintah berikut digunakan untuk melihat container yang sudah ada.
