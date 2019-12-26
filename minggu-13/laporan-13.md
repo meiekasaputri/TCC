@@ -16,6 +16,7 @@
    ![](tcc13/4.png)
 
 5. Melakukan ssh ke mesin vm2.
+
    ![](tcc13/5.png)
 
 6. Join mesin vm2 ke swarm mesin vm dengan perintah seperti berikut.
