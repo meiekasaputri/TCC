@@ -21,6 +21,7 @@
    ![](tcc-2/2-5.png)
 
 6. Mengedit dan melihat isi file README.md. Lalu menambahkan file yang ada di lokal ke git. Menyimpan perubahan yang dilakukan dan memberikan keterangan tentang perubahan yang dilakukan `Add: contents`. Push file ke repository github pada branch master. Untuk mengeksekusi perintah-perintah tersebut dengan menggunakan perintah seperti berikut :.
+
    ![](tcc-2/2-6.png)
 
 7. Hampir sama dengan nomor 7 hanya isi file README.md yang berbeda setelah di edit.
